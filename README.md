@@ -2,11 +2,9 @@
   <a href="https://vj-portfolio.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VJ-13/VJ-13/main/images/portfolio.png" alt="my banner"></a>
 </p>
 
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="https://vj-portfolio.vercel.app/" target="_blank" rel="noreferrer">VJ</a> 👋
-</h3>
-
-# Hi there, I'm VJ 👋 
+</h1>
 
 I am a third-year Computer Science student at McMaster University. I am passionate about technology and its potential to make a positive impact. I have explored various programming languages and concepts, constantly challenging myself to expand my critical thinking and programming skills.
 
