@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm VJ 👋 
 
-<!--
-**VJ-13/VJ-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a third-year Computer Science student at McMaster University. I am passionate about technology and its potential to make a positive impact. I have explored various programming languages and concepts, constantly challenging myself to expand my critical thinking and programming skills.
 
-Here are some ideas to get you started:
+# Connect with me
+<a href="https://www.linkedin.com/in/virendra-jethra/"><img align="left" src="https://raw.githubusercontent.com/VJ-13/VJ-13/main/images/linkedin.svg" alt="icon | LinkedIn" width="21px"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Technical Skills
+
+I possess a diverse skill set encompassing programming languages like Python, Java, C, HTML, CSS, JavaScript, and SQL, along with expertise in data structures, object-oriented programming, design patterns, software testing, agile techniques, and mobile application development, providing me with a strong foundation to excel in the field.
+
+# Github Stats
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=VJ-13&show_icons=true&rank_icon=github&theme=algolia" />
+
+<img align="left" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-13&layout=compact" />
