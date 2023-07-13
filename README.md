@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://vj-portfolio.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VJ-13/VJ-13/main/images/prtofolio.png" alt="my banner"></a>
+  <a href="https://vj-portfolio.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/VJ-13/VJ-13/main/images/portfolio.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
